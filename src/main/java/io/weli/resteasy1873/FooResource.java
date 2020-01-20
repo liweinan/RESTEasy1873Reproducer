@@ -1,4 +1,4 @@
-package io.weli.resteasy1784;
+package io.weli.resteasy1873;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

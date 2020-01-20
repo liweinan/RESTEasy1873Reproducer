@@ -1,4 +1,4 @@
-package io.weli.resteasy1784.servlet;
+package io.weli.resteasy1873.servlet;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
